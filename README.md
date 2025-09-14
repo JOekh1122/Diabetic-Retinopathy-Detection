@@ -23,7 +23,7 @@ Our experiments were conducted on the **APTOS 2019 dataset**, using EfficientNet
 
 📌 **Released Dataset:**
 We also provide our **segmentation outputs for the APTOS 2019 dataset**, generated with our U-Net++ model:
-👉 [Segmentation Dataset on Kaggle](https://www.kaggle.com/datasets/abdallah2yasser/segmentaion-dataset)
+👉 [Segmentation Dataset on Kaggle]([https://www.kaggle.com/datasets/abdallah2yasser/segmentaion-dataset](https://www.kaggle.com/datasets/abdallahshady/aptos-2019-dataset-vessel-segmentation/data))
 
 This dataset contains **pre-computed vessel masks** that can be directly used by other researchers for classification or further segmentation experiments.
 
